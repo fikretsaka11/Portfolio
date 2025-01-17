@@ -1,4 +1,4 @@
-# Simple Portfolio Website
+# Portfolio Website
 
 A minimalist portfolio website built with HTML and CSS.
 
